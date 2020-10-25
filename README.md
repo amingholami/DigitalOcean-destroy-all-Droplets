@@ -9,7 +9,9 @@ First and last droplet ids and your authorization api key.
 
 ``
 FIRST_DROPLET_ID = 100
+
 LAST_DROPLET_ID = 200
+
 YOUR_AUTORIZATION = XXXXXX
 ``
 
