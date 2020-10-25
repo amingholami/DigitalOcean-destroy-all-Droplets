@@ -7,13 +7,9 @@ to running this you need 3 arguments.
 
 First and last droplet ids and your authorization api key.
 
-``
-FIRST_DROPLET_ID = 100
-
-LAST_DROPLET_ID = 200
-
-YOUR_AUTORIZATION = XXXXXX
-``
+`` FIRST_DROPLET_ID = 100 ``
+`` LAST_DROPLET_ID = 200 ``
+`` YOUR_AUTORIZATION = XXXXXX ``
 
 ```
 bash delete-all-droplets.sh 100 200 XXXXXX
