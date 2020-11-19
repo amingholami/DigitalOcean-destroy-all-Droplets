@@ -1,7 +1,7 @@
 # DigitalOcean Distroy all Droplets by API
 An script to delete all droplets from your DigitalOcean account
 
-Somethimes you create lots of droplets accidently by api and you need to delete all of them to decrease risk of your billing isuue.
+Somethimes you create lots of droplets accidently by api and you need to delete all of them to decrease risk of your billing issue.
 
 ## How to Run? ##
 
